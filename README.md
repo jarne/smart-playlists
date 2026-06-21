@@ -55,4 +55,4 @@ Thanks for your interest 🎉👍!
 
 ## 👨‍⚖️ License
 
-[MIT](https://github.com/jarne/mart-playlist/blob/main/LICENSE)
+[MIT](https://github.com/jarne/smart-playlists/blob/master/LICENSE)
